@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Boogie Wonderland (Official Video)",
+  "base_artist": "Earth, Wind & Fire",
+  "createdAt": "2026-02-09T06:52:04.166753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire feat. The Emotions",
+      "has_synced": true,
+      "path": "select/01_Boogie_Wonderland_Earth,_Wind_&_Fire_feat._The_Emotions.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire, The Emotions",
+      "has_synced": true,
+      "path": "select/02_Boogie_Wonderland_Earth,_Wind_&_Fire,_The_Emotions.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Mr Belt feat. Wezol",
+      "has_synced": true,
+      "path": "select/03_Boogie_Wonderland_Mr_Belt_feat._Wezol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Mr. Belt & Wezol",
+      "has_synced": true,
+      "path": "select/04_Boogie_Wonderland_Mr._Belt_&_Wezol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth-Wind and Fire/The Emotions",
+      "has_synced": true,
+      "path": "select/05_Boogie_Wonderland_Earth-Wind_and_Fire_The_Emotions.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/06_Boogie_Wonderland_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire, The Emotions",
+      "has_synced": true,
+      "path": "select/07_Boogie_Wonderland_Earth,_Wind_&_Fire,_The_Emotions.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/08_Boogie_Wonderland_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "The Emotions feat. Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/09_Boogie_Wonderland_The_Emotions_feat._Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (Feat. The Emotions)",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/10_Boogie_Wonderland_(Feat._The_Emotions)_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire with The Emotions",
+      "has_synced": true,
+      "path": "select/11_Boogie_Wonderland_Earth,_Wind_&_Fire_with_The_Emotions.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire with The Emotions",
+      "has_synced": true,
+      "path": "select/12_Boogie_Wonderland_Earth,_Wind_&_Fire_with_The_Emotions.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (With The Emotions)",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/13_Boogie_Wonderland_(With_The_Emotions)_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth Wind & Fire",
+      "has_synced": true,
+      "path": "select/14_Boogie_Wonderland_Earth_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/15_Boogie_Wonderland_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/16_Boogie_Wonderland_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": false,
+      "path": "select/pl_01_Boogie_Wonderland_Earth,_Wind_&_Fire.txt"
+    }
+  ]
+}
